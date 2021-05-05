@@ -28,3 +28,6 @@ Within this dataset are a number of columns that capture metadata about each org
 - Software :Python , Anaconda Navigator, Conda, Jupyter Notebook.
 
 ## Summary and Results 
+
+ ### Deliverable 1: Preprocessing Data for a Neural Network Model
+ 
